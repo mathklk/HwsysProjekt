@@ -1,0 +1,42 @@
+Partlist
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part          Value          Package   Library   Position (mil)        Orientation
+
+C1            33p            C-2,5     89S52mini (875 200)             R90
+C2            33p            C-2,5     89S52mini (1450 200)            R90
+C3            100n           C-2,5     89S52mini (3637.5 2550)         R0
+C4            100n           C-2,5     89S52mini (3650 2275)           R0
+C5            10u            ELKO-2,5  89S52mini (3825 2087.5)         R0
+C7            10u            ELKO-2,5  89S52mini (562.5 2687.5)        R90
+D1            1N4007         DO41-10   89S52mini (3612.5 2725)         R180
+D3            LED_RX         LED3-2,5  89S52mini (550 437.5)           R0
+D4            LED_TX         LED3-2,5  89S52mini (550 212.5)           R0
+IC1           7805           TO220V    89S52mini (3812.5 2412.5)       R270
+IC_CONTROLLER                DIL40     89S52mini (1150 1400)           R270
+IC_DECODER                   DIL20     89S52mini (1900 800)            R270
+IC_LATCH                     DIL20     89S52mini (2100 2050)           R270
+IC_RAM                       DIL28     89S52mini (2950 1250)           R90
+P1                           MPAD-3,0  89S52mini (3750 200)            R0
+P2                           MPAD-3,0  89S52mini (200 200)             R0
+P3                           MPAD-3,0  89S52mini (200 2950)            R0
+P4                           MPAD-3,0  89S52mini (3750 2950)           R0
+PC1           100n           C-2,5     89S52mini (1112.5 2575)         R0
+PC2           100n           C-2,5     89S52mini (2100 2612.5)         R0
+PC3           100n           C-2,5     89S52mini (1900 1375)           R0
+PC4           100n           C-2,5     89S52mini (2950 412.5)          R0
+Q1            20MHz          HC49U     89S52mini (1162.5 250)          R180
+R1            100            R-10      89S52mini (1150 2900)           R0
+R2            10k            R-10      89S52mini (700 2525)            R180
+R3            1k8            R-10_LANG 89S52mini (612.5 1112.5)        R90
+R4            1k8            R-10_LANG 89S52mini (700 1050)            R90
+S1                           T3301     89S52mini (562.5 2925)          R180
+X1            Ue             HEBW21    89S52mini (3262.5 3025)         R270
+X2                           J1X3      89S52mini (1025 2737.5)         R180
+X_ADC                        MA8X2     89S52mini (250 2325)            R90
+X_DISPLAY                    MA10X2    89S52mini (3520 1300)           R90
+X_ISP         MA2X3          MA3X2     89S52mini (250 1612.5)          R90
+X_KEYBOARD                   MA8X2     89S52mini (250 900)             R90
